@@ -1,14 +1,14 @@
 name: flutter_twilio_conversations_platform_interface
 description: A common platform interface for the flutter_twilio_conversations plugin.
-version: 2.0.9
+version: 2.0.10
 repository: https://github.com/Diversido/flutter_twilio_conversations/tree/main/flutter_twilio_conversations_platform_interface
 issue_tracker: https://github.com/Diversido/flutter_twilio_conversations/issues
 
 dependencies:
   flutter:
     sdk: flutter
-  meta: ^1.0.5
-  plugin_platform_interface: ^2.1.7
+  meta: ^1.14.0
+  plugin_platform_interface: ^2.1.8
 
 dev_dependencies:
   flutter_test:
@@ -16,4 +16,4 @@ dev_dependencies:
 
 environment:
   sdk: ">=2.14.0 <4.0.0"
-  flutter: '>=1.17.0'
+  flutter: ">=1.17.0"
