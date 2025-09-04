@@ -344,14 +344,14 @@ packages:
     source: path
     version: "2.0.10+1"
   flutter_twilio_conversations_platform_interface:
-    dependency: "direct overridden"
+    dependency: transitive
     description:
       path: "../../flutter_twilio_conversations_platform_interface"
       relative: true
     source: path
     version: "2.0.10"
   flutter_twilio_conversations_web:
-    dependency: "direct overridden"
+    dependency: transitive
     description:
       path: "../../flutter_twilio_conversations_web"
       relative: true

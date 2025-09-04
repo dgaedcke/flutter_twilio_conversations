@@ -31,11 +31,5 @@ dev_dependencies:
   flutter_twilio_conversations:
     path: ../
 
-dependency_overrides:
-  flutter_twilio_conversations_web:
-    path: ../../flutter_twilio_conversations_web
-  flutter_twilio_conversations_platform_interface:
-    path: ../../flutter_twilio_conversations_platform_interface
-
 flutter:
   uses-material-design: true
